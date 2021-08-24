@@ -1,9 +1,6 @@
 ### Welcome everyone 👋
 ---------------
-I am a React.js and iOS developer.
 
-- 🔭 I am currently working on my own projects, which include an iOS educational app and an online store (React.js + TS + Nest.JS + AWS)
-- 🌱 I’m currently improve my skills with Nest.JS and Amazon AWS
 
 <div align="center">
   
@@ -11,6 +8,24 @@ I am a React.js and iOS developer.
 :-------------------------------------:|:-------------------------:
  <img src='https://media0.giphy.com/media/3o6ZsUMoSiuTgM6QM0/giphy.gif?cid=ecf05e47r7gsqrh591oqv9zjb470udqrykfkjc5vafxu7j2s&rid=giphy.gif&ct=g' width='200' height='200'> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suncryptjustice&layout=compact&theme=tokyonight)
 </div>
+
+I am a React.js and iOS developer.
+
+ ```js
+ 
+class WebDeveloper {
+  constructor() {
+    this.name = "Ilia"
+    this.location = "Moscow, Russian Federation"
+    this.web = "https://suncryptworkflow.com/"
+    this.interests = [
+      "React", "Mobile Development"
+    ],
+    this.wannaLearn = ["SwiftUI", "Unity", "C#"]
+    }
+  }
+
+```
  
 
 ## 🔧 Skills
@@ -56,17 +71,6 @@ I am a React.js and iOS developer.
 
 
  
- ```js
-class Developer {
-  constructor() {
-    this.name = "Ilia";
-    this.sex = "male";
-    this.age = Math.floor((Date.now() - new Date('September 20, 1991')) / (1000 * 60 * 60 * 24 * 365.25));
-  };
-};
 
-const boringGuy = new Developer();
-
-```
 
 --->
