@@ -16,7 +16,7 @@ I am a React.js and iOS developer.
 class WebDeveloper {
   constructor() {
     this.name = "Ilia"
-    this.location = "Moscow, Russian Federation"
+    this.location = "Bangkok, Thailand"
     this.web = "https://suncryptworkflow.com/"
     this.interests = [
       "React", "Mobile Development"
