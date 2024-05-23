@@ -58,7 +58,7 @@ class WebDeveloper {
 <img src="https://img.shields.io/badge/styled%20components-282C34?logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="30" />
 &nbsp;
 
-##  👻 I'm always open to interesting opportunities
+##  👻 Contacts
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="30" />](https://www.linkedin.com/in/suncrypt)
 &nbsp;
