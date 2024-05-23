@@ -9,25 +9,6 @@
  <img src='https://media0.giphy.com/media/3o6ZsUMoSiuTgM6QM0/giphy.gif?cid=ecf05e47r7gsqrh591oqv9zjb470udqrykfkjc5vafxu7j2s&rid=giphy.gif&ct=g' width='200' height='200'> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suncryptjustice&layout=compact&theme=tokyonight)
 </div>
 
-I am a React.js and iOS developer.
-
- ```js
- 
-class WebDeveloper {
-  constructor() {
-    this.name = "Ilia"
-    this.location = "Bangkok, Thailand"
-    this.web = "https://suncryptworkflow.com/"
-    this.interests = [
-      "React", "Mobile Development"
-    ],
-    this.wannaLearn = ["SwiftUI", "Unity", "C#"]
-    }
-  }
-
-```
- 
-
 ## 🔧 Skills
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" />](https://stackoverflow.com/users/10927329/valentin-briand)
 &nbsp;
@@ -58,7 +39,7 @@ class WebDeveloper {
 <img src="https://img.shields.io/badge/styled%20components-282C34?logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="30" />
 &nbsp;
 
-##  👻 Contacts
+##  👻 Hit me up
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="30" />](https://www.linkedin.com/in/suncrypt)
 &nbsp;
